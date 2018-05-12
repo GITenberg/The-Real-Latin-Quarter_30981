@@ -22,6 +22,8 @@ covers:
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30981#The-Real-Latin-Quarter
 gutenberg_issued: '2010-01-16'
 gutenberg_type: Text
 identifiers:
